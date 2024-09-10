@@ -1,0 +1,157 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    height:0px;
+}
+#g
+{
+    width:100%;
+    position:fixed;
+   BORDER:2PX SOLID rgb(221, 203, 203);
+    height:150px;
+    text-align: right;
+    
+}
+#a
+{
+    height:65%; 
+    background-color:rgb(15, 15, 87);
+
+          
+}
+#b
+{
+    height:35%;
+    background-color:#ffffff;
+    
+}
+ul li
+{
+    
+   display:inline;
+
+}
+.ac
+{
+    
+    position:relative;
+    top:70px;
+    MARGIN-LEFT:23PX;
+}
+.AD
+{
+    position:relative;
+    MARGIN-LEFT:23PX;
+    MARGIN:22PX;
+}
+h2{
+    TEXT-ALIGN:LEFT;
+   
+    color:white;
+    display:inline;
+    position:relative;
+    top:1px;
+    font-size: x-large;
+}
+img{
+    height:60px;
+    width:60px;
+    position:relative;
+    top:12px;
+    border-radius:13px;
+}
+div
+{
+    text-align: left;
+
+   
+}
+.ZA
+{
+  font-weight:bolder;
+  padding:17px;
+  color:white;
+  text-decoration: none;
+}
+.ZB
+{
+    color: rgb(9, 9, 150);
+    font-weight: bolder;
+   
+}
+.ZA:hover
+{
+    COLOR:rgb(190, 190, 50);
+}
+.ZB:hover
+{
+    COLOR:rgb(78, 78, 27);
+}
+button
+{
+    POSITION:relative;
+    TOP:12PX;
+}
+select
+{
+    PADDING:12PX;
+}
+#HOME
+{
+    background-color: rgb(201, 179, 179);
+    BORDER:2PX SOLID RED;
+    HEIGHT:10000px;
+    position:relative;
+   top:122px;
+z-index: -1;
+}
+#about
+{
+    
+    height:70px;
+    background-color: #ffffff;
+}
+#par
+{
+ position:relative;
+ top:45px;
+ left:65px;
+    color:cadetblue;
+    font-weight: bold;
+}
+#al
+{
+    background-color: rgb(71, 71, 153);
+    border:3px solid rgb(10, 10, 136);
+    height:1000px;
+}
+.h 
+{
+    display:inline;
+    height:50px;
+    font-size: xx-large;
+    font-weight: bolder;
+    padding:12px;
+}
+.p
+{
+    
+    
+    height:120px;
+    font-style: initial;
+    font-size: larger;
+    padding:12px;
+
+}
+#nu
+{
+    height:320px;
+    width:90%;
+    padding-left:53px;
+    border-radius:12px;
+    
+}
+
+
+
